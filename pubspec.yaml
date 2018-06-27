@@ -10,6 +10,7 @@ dependencies:
   cupertino_icons: ^0.1.2
   json_annotation: ^0.2.2
   http: ^0.11.3+16
+  path_provider: ^0.4.1
 
 dev_dependencies:
   flutter_test:
@@ -26,6 +27,22 @@ flutter:
   assets:
        - graphics/background.png
        - graphics/bg_splash.webp
+
+# 我的页面 - mian4
+       - graphics/icon_right_arrow.png
+       - graphics/mine_love_coin.png
+       - graphics/mine_order.png
+       - graphics/mine_coupon.png
+       - graphics/mine_yaoqing.png
+       - graphics/mine_message.png
+       - graphics/mine_shopping_basket.png
+
+
+
+
+
+
+
 
 
   # The following line ensures that the Material Icons font is
